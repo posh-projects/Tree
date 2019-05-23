@@ -2,6 +2,8 @@
 
 List contents of directories in a tree-like format with colorization and lots of options.
 
+![example 03](/Docs/Screenshots/03.png)
+
 I frequently need a tree-style directory listing charts to include in my `GitHub` doc files. But the native windows `tree.com` implementation is far from perfect, and the Linux clone `Tree for Windows` renders the tree with legacy `ASCII` characters.
 So I decided to spend a couple of hours to write this wrapper with color highlighting and proper leafs rendering support.
 
