@@ -1,4 +1,5 @@
 # Tree
+[![Powershellgallery Badge][psgallery-badge]][psgallery-status]
 
 List contents of directories in a tree-like format with colorization and lots of options.
 
@@ -59,3 +60,6 @@ PS>Get-ChildItemTree D:\Path -a -I .git
 Get-ChildItemTree D:\Path -a -h -p
 ```
 ![example 02](/Docs/Screenshots/02.png)
+
+[psgallery-badge]: https://img.shields.io/badge/PowerShell_Gallery-1.0.1-green.svg
+[psgallery-status]: https://www.powershellgallery.com/packages/Tree/1.0.1
