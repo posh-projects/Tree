@@ -10,7 +10,8 @@ So I decided to spend a couple of hours to write this wrapper with color highlig
 
 > This module uses [Tree for Windows](http://gnuwin32.sourceforge.net/packages/tree.htm) in order to get the initial directory structure and then colorizes its output and renders the unicode representation.
 
-Make sure to download the [Tree for Windows](http://gnuwin32.sourceforge.net/packages/tree.htm) and make it accessible through your system `PATH` variable.
+Make sure to download the [Tree for Windows](http://gnuwin32.sourceforge.net/packages/tree.htm) and make it accessible through your system `PATH` variable
+Install via Chocolatey: [`cinst tree`](https://chocolatey.org/packages/tree)
 
 `Get-ChildItemTree` Understands all of its Linux `tree` counterpart, [command line switches](https://linux.die.net/man/1/tree). So, feel free to read the official [docs](https://linux.die.net/man/1/tree) for more info.
 
